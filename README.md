@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/33/ce/9a/33ce9aeda995ccca617218bbfcc3ae70.jpg" width="300" />
+<img src="https://i.pinimg.com/1200x/33/ce/9a/33ce9aeda995ccca617218bbfcc3ae70.jpg" width="600" />
 
 ## Hi there! I'm Hander 
 
