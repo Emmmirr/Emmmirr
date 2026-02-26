@@ -1,5 +1,6 @@
-<img src="https://i.pinimg.com/1200x/33/ce/9a/33ce9aeda995ccca617218bbfcc3ae70.jpg" width="600" />
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3f/2b/a9/3f2ba950c45b19a282532ea88b3816ae.gif" width="450" />
+</p>
 ## Hi there! I'm Hander 
 
 A developer in training.
