@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3f/2b/a9/3f2ba950c45b19a282532ea88b3816ae.gif" width="700" />
+  <img src="https://i.pinimg.com/originals/3f/2b/a9/3f2ba950c45b19a282532ea88b3816ae.gif" width="900" />
 </p>
 
 ## Hi there! I'm Hander 
